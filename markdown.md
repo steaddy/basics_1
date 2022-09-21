@@ -36,7 +36,9 @@ Paragraph goes here.
 
     <htm>
       <head></head>
-      <body></body>
+      <body>
+        Some text from main
+      </body>
     </html>
     
 ***
