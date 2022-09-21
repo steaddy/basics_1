@@ -37,6 +37,7 @@ Paragraph goes here.
     <htm>
       <head></head>
       <body>
+        Some text from branch2
         Some text from main branch
       </body>
     </html>
